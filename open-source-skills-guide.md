@@ -623,6 +623,3 @@ We welcome community Skill contributions! Please follow this process:
 This project is licensed under the MIT License. Skill content copyright belongs to the original authors.
 
 ---
-
-*文档版本 / Doc Version: 1.0.0 | 最后更新 / Last Updated: 2025-06-15 | 维护者 / Maintainer: Skills Community*
-*（内容由AI生成，仅供参考）*
